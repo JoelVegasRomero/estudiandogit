@@ -4,10 +4,8 @@ Entre sus responsabilidades principales se encuentran la **creación de modelos 
 
 El AI Engineer no solo entrena modelos, sino que también los **integra en aplicaciones reales**, mediante APIs o microservicios, garantizando que funcionen de forma escalable y segura en entornos de producción. Por ello, combina habilidades de desarrollo de software con conocimientos sólidos en matemáticas aplicadas, estadística y arquitectura de datos.
 
-Su papel es clave en organizaciones que buscan automatizar procesos, mejorar la eficiencia operativa o desarrollar productos inteligentes, desde asistentes virtuales hasta sistemas de recomendación o visión por computadora.
-
-En resumen, el **ingeniero en inteligencia artificial** es quien convierte la teoría de los algoritmos en soluciones concretas que impulsan la innovación tecnológica.
-
----
-
+Su papel es clave en organizaciones que buscan automatizar procesos, mejorar la eficiencia operativa o desarrollar productos inteligentes, desde asistentes virtuales hasta sistemas de recomendación o visión por comp
 ¿Quieres que te escriba una **versión más resumida (como para LinkedIn)** o una **más técnica (como para un paper o una presentación universitaria)**?
+
+
+HOLA JOEL DESDE EL ARCHIVO 2
