@@ -1,7 +1,3 @@
-Perfecto 😎 Aquí tienes un texto aleatorio sobre el rol del **AI Engineer (Ingeniero en Inteligencia Artificial)**:
-
----
-
 Un **AI Engineer** es un profesional especializado en diseñar, desarrollar e implementar sistemas y soluciones basadas en **inteligencia artificial**. Su trabajo combina conocimientos de **programación, matemáticas, ciencia de datos** y **aprendizaje automático** para construir modelos que simulen capacidades humanas como la percepción, el razonamiento o la toma de decisiones.
 
 Entre sus responsabilidades principales se encuentran la **creación de modelos de machine learning y deep learning**, el procesamiento de datos en grandes volúmenes y la optimización de algoritmos para mejorar su precisión y rendimiento. Utiliza herramientas y librerías como **TensorFlow**, **PyTorch**, **scikit-learn** o **Hugging Face**, además de plataformas en la nube como **AWS SageMaker**, **Azure AI** o **Vertex AI**.
